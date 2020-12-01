@@ -23,4 +23,5 @@ Things you may want to cover:
 
 * ...
 
-Complete Ruby on Rails Developer Course
+* Complete Ruby on Rails Developer Course.
+* First Test repo on GitHub.
